@@ -22,7 +22,7 @@ This project presents an interactive E-commerce Sales Dashboard developed using 
 - Interactive Filters and Slicers
 
 ## Dashboard Preview
-![sales dashboard.pbix](Dashboard.png)
+![sales dasboard.pbix](Dashboard.png)
 
 ## Key Insights
 - Maharashtra has the highest sales among the displayed states.
